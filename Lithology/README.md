@@ -4,7 +4,7 @@ Lithology is a representation of the underlying rock structure of the area under
 #### Source: 
 The state-wise lithology data has been downloaded as shapefiles manually from Bhukosh.
 
-Take a look at this, for detailed steps to download: [link](https://docs.google.com/document/d/19nxvW8ZIbofpXj_ZIMOvLDRcjStKedZLECCiPhS42RU/edit?usp=drive_link)
+For detailed steps to download, take a look at this: [link](https://docs.google.com/document/d/19nxvW8ZIbofpXj_ZIMOvLDRcjStKedZLECCiPhS42RU/edit?usp=drive_link)
 #### Pre-Processing: 
 The downloaded shapefiles are analyzed to understand the different lithology types in the area. These distinct lithology types are then correlated with the 60 principal aquifer types, along with their corresponding rainfall infiltration factors sourced from the Rainfall Infiltration Factor table outlined in the GEC 1997 report. These types can be combined into broader classes depending on the requirement of the study. Individual classes are extracted and rasterized at a resolution of 1:60k (30m by 30m). These rasters can be combined to generate a state lithology mask which is georeferenced to the respective state for ease of visualization.
 #### Scoring: 
