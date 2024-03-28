@@ -13,4 +13,4 @@ The drainage lines are reprojected to 7755 coordinate reference system (crs) bef
  Low drainage density is more likely to dominate in highly permeable, dense vegetation, and low relief areas. To quantify drainage density, the range of values observed in the basin where the area is situated is evenly divided into three classes. The first class is assigned a score of 1, the second class is assigned a score of 2, and the third class is assigned a score of 3.
 
  
- Take a look at this for detailed steps: [link](https://docs.google.com/document/d/19gBgpVYu7dTAb7CEB2PdCqDUCEBYj1ZM29jngxH_6Hk/edit?usp=sharing)
+For detailed steps, take a look at this: [link](https://docs.google.com/document/d/19gBgpVYu7dTAb7CEB2PdCqDUCEBYj1ZM29jngxH_6Hk/edit?usp=sharing)
