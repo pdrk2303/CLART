@@ -13,4 +13,5 @@ Depending on how the different layers impact the classification under considerat
 For GWRP, the following input layers are considered - lithology, drainage density and lineaments. This recharge potentiality in weighted combination with slope percentage results in a feasibility score layer which can be used to determine the type of NRM work most suitable for the area in consideration.
 
 The analysis was initially done on QGIS Desktop manually for the district of Jamui, Bihar, and then automated using Python. The automation allowed easy extension of the process for the whole of India. The most recent work involves transferring the preprocessed layers to Google Earth Engine to create a reconfigurable assessment tool with dynamic scoring to allow flexibility based on requirement.
+
 ![Picture1](https://github.com/pdrk2303/CLART/assets/116311921/3c7da460-d8af-47b3-804b-8c9ce064e9f0)
