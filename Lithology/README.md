@@ -11,3 +11,5 @@ The downloaded shapefiles are analyzed to understand the different lithology typ
 The rainfall infiltration factor (rif) from the GEC 1977 report is used as a measure of recharge potential. Lithology types are categorized into three classes based on their respective rainfall infiltration factors: those with values greater than 15 are assigned a score of 1, those falling between 10 and 15 receive a score of 2, and lithology types with rif values below 10 are assigned a score of 3.
 
 GEC 1997 Report: [link](http://www.angelfire.com/nh/cpkumar/publication/Lgwa.pdf) (Page no. 9,10,11)
+#### Steps to Generate the Lithology Raster:
+1. Download the lithology shape files for the desired block from Bhukosh. (Link provided in the [Source](#source) section)
