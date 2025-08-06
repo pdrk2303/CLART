@@ -14,5 +14,5 @@ GEC 1997 Report: [link](http://www.angelfire.com/nh/cpkumar/publication/Lgwa.pdf
 #### Steps to Generate the Lithology Raster:
 1. Download the lithology shape files for the desired block from Bhukosh. (Link provided in the [Source](#source) section)
 2. The state wise aquifer maps are already available in the [yeild_aquifer](./yield_aquifer) folder.
-3. Run the [lithology_matching.py](./lithology_matching.py) script with shapefile as the lithology shapefile of the block and table as the aquifer shapefile of the block's corresponding state. This will add the Lithology Class as an attribute to the various lithology groups present in the block.
+3. Run the [lithology_matching.py](./lithology_matching.py) script with "shapefile" as the lithology shapefile of the block and "table" as the aquifer shapefile of the block's corresponding state. This will add the Lithology Class as an attribute to the various lithology groups present in the block.
 4. Now to get the Lithology Raster with Lithology Class as the pixel value run the [rasterizing_vectors.py](./rasterizing_vectors.py) script to rasterize the vector file generated in the previous step.
